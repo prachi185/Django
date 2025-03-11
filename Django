@@ -1,0 +1,16 @@
+# Django Project
+
+## Description
+This is a Django-based web application. The project includes backend logic, database integration, and frontend templates.
+
+## Features
+- User authentication
+- Database management with Django ORM
+- REST API support
+- Template rendering
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/prachi185/Django.git
+   cd Django
